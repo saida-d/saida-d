@@ -1,6 +1,6 @@
 ![Profile](ai.jpg)
 
-# 👋 Hi, I'm SAIDA.D <hr>
+<h1 align="center">👋 Hi, I'm SAIDA.D </h1>
 I'm a **AI/ML Engineer | Data Scientist | GenAI, Agentic AI, AI Automation & Data Engineering Enthusiast** with 16+ years of experience in software development and 7 + years in AI/ML.
 
 - 🔭 Currently working on: **AI/ML, Generative AI & MLOps, LLMOps, Data Engineering**
