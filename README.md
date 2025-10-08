@@ -1,4 +1,4 @@
-![Profile](ai.jpg)
+![Profile](ai.png)
 
 <h1 align="center">👋 Hi, I'm SAIDA.D </h1>
 
