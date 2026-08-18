@@ -9,4 +9,9 @@ I'm **AI/ML Engineer | Data Scientist | GenAI, Agentic AI, AI Automation & Data 
 - 🔭 Build Own LLM by Usecase?: **I have Full capable of building own LLM/(or finetune) which is usecase based**
 - 📫 Reach me at: **programmer.sr@gmail.com**
 
-![Microsoft Certified AI Engineer](https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg)
+
+## Certifications
+
+| Microsoft Certified AI Engineer | Microsoft Certified Azure Data Scientist | Microsoft Certified Azure AI Fundamentals |
+|:---:|:---:|:---:|
+| <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft Certified AI Engineer" width="120"> | <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft Certified Azure Data Scientist" width="120"> | <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft Certified Azure AI Fundamentals" width="120"> |
