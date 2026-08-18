@@ -12,6 +12,6 @@ I'm **AI/ML Engineer | Data Scientist | GenAI, Agentic AI, AI Automation & Data 
 
 ## Certifications
 
-| Microsoft Certified AI Engineer | Microsoft Certified Azure Data Scientist | Microsoft Certified Azure AI Fundamentals |
+| Microsoft Certified AI Engineer | Microsoft Certified Azure Cloud| Azure AI Apps and Agents Developer Associate |
 |:---:|:---:|:---:|
-| <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft Certified AI Engineer" width="120"> | <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft Certified Azure Data Scientist" width="120"> | <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft Certified Azure AI Fundamentals" width="120"> |
+| <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft Certified AI Engineer" width="120"> | <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft Certified Azure Cloud" width="120"> | <img src="[https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg](https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg)" alt="Azure AI Apps and Agents Developer Associate" width="120"> |
